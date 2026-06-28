@@ -3,8 +3,6 @@
 ## Objectives
 Use SSH to connect to the OverTheWire Bandit server with the provided credentials and successfully log in as bandit0.
 
-Level 0 → Level 1: 
-
 ## Skills Used
 - SSH
 - Linux terminal navigation
@@ -31,5 +29,6 @@ The `ls` command lists files in the current directory, and the `cat` command pri
 
 ## Result
 The readme file contained the password for the next level
-Password: 6y2kwnwK6grgvwvpvLaa2T1cpFEKOhNR
+`Password: <REDACTED>`
 ## Security Takeaway
+SSH is used for secure remote administration. Understanding how SSH works is important for both system administration and cybersecurity because misconfigured SSH access can become a major security risk.
