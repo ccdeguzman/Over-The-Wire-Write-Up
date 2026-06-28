@@ -15,7 +15,7 @@ The username is bandit0 and the password is bandit0.
 ## Approach
 Using a VM, I launched Kali Linux and opened a terminal. Through the terminal, I used SSH with the provided username, host, and port number
 
-### Commands Used
+## Commands Used
 `ssh bandit0@bandit.labs.overthewire.org -p 2220`
 After logging in, I listed the files in the current directory:
 `ls`
